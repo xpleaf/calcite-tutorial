@@ -1,0 +1,25 @@
+*~
+target
+.idea
+*.iml
+settings.xml
+.classpath.txt
+.fullclasspath.txt
+
+# eclipse
+.project
+.buildpath
+.classpath
+.settings
+.checkstyle
+
+# netbeans
+nb-configuration.xml
+*/nb-configuration.xml
+
+# mac
+.DS_Store
+
+.mvn/wrapper/maven-wrapper.jar
+
+# End .gitignore
