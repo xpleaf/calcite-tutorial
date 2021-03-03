@@ -1,4 +1,4 @@
-package cn.xpleaf.calcite.csv;
+package cn.xpleaf.calcite.simple.csv;
 
 import cn.xpleaf.calcite.utils.ResultSetUtil;
 import org.apache.calcite.adapter.csv.CsvSchema;

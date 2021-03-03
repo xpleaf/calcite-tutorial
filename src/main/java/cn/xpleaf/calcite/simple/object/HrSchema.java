@@ -1,4 +1,4 @@
-package cn.xpleaf.calcite.object;
+package cn.xpleaf.calcite.simple.object;
 
 public class HrSchema {
     public final Employee[] emps = {

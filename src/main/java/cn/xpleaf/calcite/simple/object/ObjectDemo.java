@@ -1,18 +1,14 @@
-package cn.xpleaf.calcite.object;
+package cn.xpleaf.calcite.simple.object;
 
 import cn.xpleaf.calcite.utils.ResultSetUtil;
-import org.apache.calcite.adapter.csv.CsvSchema;
-import org.apache.calcite.adapter.csv.CsvTable;
 import org.apache.calcite.adapter.java.ReflectiveSchema;
 import org.apache.calcite.jdbc.CalciteConnection;
 import org.apache.calcite.schema.SchemaPlus;
 
-import java.io.File;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
-import java.util.Objects;
 import java.util.Properties;
 
 public class ObjectDemo {

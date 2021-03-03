@@ -1,4 +1,4 @@
-package cn.xpleaf.calcite.elasticsearch;
+package cn.xpleaf.calcite.simple.elasticsearch;
 
 import cn.xpleaf.calcite.utils.ResultSetUtil;
 import com.fasterxml.jackson.databind.ObjectMapper;
